@@ -27,6 +27,10 @@
   Back : 김민준, 김우찬
 
   RTC : 고주희, 이호진
+  
+- **아키텍처**
+![image](https://user-images.githubusercontent.com/51371085/172175381-be816511-2853-40c5-a2b3-269eb0a7fe8e.png)
+
 
 - **기술스택**
 
